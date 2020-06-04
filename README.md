@@ -10,7 +10,7 @@ During the week we developed the **Ecoleta** app. This app is an marketplace to 
 
 In this project, the technologies used was:
 
-- React
+- ReactJS
 - Typescript
 - Node.js (API RESTful)
 - Express
