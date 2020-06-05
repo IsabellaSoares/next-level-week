@@ -16,3 +16,5 @@ In this project, the technologies used was:
 - Express
 - React Native
 - Expo
+- Knex.js
+- SQLite
