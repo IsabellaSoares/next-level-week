@@ -4,7 +4,8 @@
   "description": "Repository to Next Level Week's project, promoted by [Rocketseat](https://rocketseat.com.br/) in June 2020.",
   "main": "index.js",
   "scripts": {
-    "dev": "npx ts-node src/server.ts"
+    "dev": "npx ts-node src/server.ts",
+    "knex:migrate": "npx knex migrate:latest --knexfile knexfile.ts migrate:latest"
   },
   "repository": {
     "type": "git",
