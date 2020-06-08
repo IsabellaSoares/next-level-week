@@ -11,10 +11,11 @@ During the week we developed the **Ecoleta** app. This app is an marketplace to 
 In this project, the technologies used was:
 
 - ReactJS
+- Axios
 - Typescript
 - Node.js (API RESTful)
 - Express
-- React Native
-- Expo
 - Knex.js
 - SQLite
+- React Native
+- Expo
