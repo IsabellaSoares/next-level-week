@@ -19,3 +19,27 @@ In this project, the technologies used was:
 - SQLite
 - React Native
 - Expo
+
+### How to run this app?
+
+#### Server (API)
+
+- Inside `server` folder, run the follow command:
+
+```
+npm install
+npm run dev
+```
+
+- The API run in `localhost:3333/`. Don't close your terminal!
+
+#### Web (Front-end)
+
+- Inside `web` folder, run the follow command:
+
+```
+npm install
+npm start
+```
+
+- The app run in `localhost:3000/`. Don't close your terminal!
